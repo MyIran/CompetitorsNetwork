@@ -1,0 +1,2 @@
+# CompetitorsNetwork
+WorldSkills Competitors Network
